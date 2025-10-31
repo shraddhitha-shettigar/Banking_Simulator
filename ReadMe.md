@@ -1,5 +1,5 @@
 
-# 💳 Banking Simulator Application
+# 💳 Banking Activity Simulation Platform
 
 A **full-stack banking management simulator** that demonstrates core banking operations — including customer onboarding, account management, transactions, and admin control — with **secure user authentication** and an **interactive, responsive React frontend**.
 
