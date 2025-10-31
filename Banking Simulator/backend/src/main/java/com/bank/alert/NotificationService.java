@@ -7,8 +7,6 @@ import java.util.Properties;
 import com.bank.repository.AccountRepository;
 
 
-
-
 public class NotificationService {
 
     private final String fromEmail;
