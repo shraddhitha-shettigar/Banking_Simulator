@@ -135,6 +135,6 @@ This project is open-source and available under the **[MIT License](https://www.
 *This project was developed as part of the Infosys Springboard Internship.*
 *📅 2025*
 
-⭐ *If you find this project helpful, please consider giving it a star on GitHub\!*
+
 
 ```
