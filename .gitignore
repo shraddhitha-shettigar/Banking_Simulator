@@ -1,6 +1,7 @@
 # Ignore environment files
 Banking Simulator/backend/.env
 
+
 # Node & Java ignores
 node_modules/
 target/
