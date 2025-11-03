@@ -70,27 +70,11 @@ The **Banking Simulator** is a mini banking system where users can:
 | | `/admin/query` | `POST` | User sends query to admin |
 | | `/admin/queries` | `GET` | Get all user queries (Admin) |
 
------
 
 
 
-## 🖼️ Screenshots
 
-| Home Page | User Signup |
-|---|---|
-| ![Home Page](./Banking%20Simulator/screenshots/home.jpg) | ![User Signup](./Banking%20Simulator/screenshots/signup.jpg) |
-| **User Login** | **User Dashboard** |
-| ![User Login](./Banking%20Simulator/screenshots/login.jpg) | ![User DashBoard](./Banking%20Simulator/screenshots/user_dashboard.jpg) |
-| **Customer Onboarding** | **Search Customer** |
-| ![Customer Onboarding](./Banking%20Simulator/screenshots/create_customer.jpg) | ![Search Customer](./Banking%20Simulator/screenshots/search_customer.jpg) |
-| **Create Account** | **Search Account** |
-| ![Account Management](./Banking%20Simulator/screenshots/create_account.jpg) | ![Account Management](./Banking%20Simulator/screenshots/search_account.jpg) |
-| **Make Transaction** | **Search Transaction** |
-| ![Transaction](./Banking%20Simulator/screenshots/make_transaction.jpg) | ![Transaction](./Banking%20Simulator/screenshots/search_transaction.jpg) |
-| **Send Query** | **Admin Login** |
-| ![Query](./Banking%20Simulator/screenshots/send_query.jpg) | ![Admin Login](./Banking%20Simulator/screenshots/admin_login.jpg) |
-| **Admin Dashboard** |
-| ![Admin Dashboard](./Banking%20Simulator/screenshots/admin_dashboard.jpg) | |
+
 -----
 
 ## 🧰 How to Run
