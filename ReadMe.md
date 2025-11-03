@@ -47,7 +47,7 @@ The **Banking Simulator** is a mini banking system where users can:
 * **Admin Dashboard:** A separate interface for admins to view all customers, accounts, transactions, and user queries in responsive tables.
 -----
 
-## 🌐 API Endpoints Overview
+## 🌐 API Endpoints 
 
 | Module | Endpoint | Method | Description |
 |---|---|---|---|
