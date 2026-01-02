@@ -20,10 +20,12 @@ The **Banking Simulator** is a mini banking system where users can:
 
 | Layer | Technology |
 |--------|-------------|
-| **Frontend** | React.js  + TailwindCSS |
+<!-- | **Frontend** | React.js  + TailwindCSS | -->
+| **Frontend** | React.js|
 | **Backend** | Java  + Apache Tomcat |
 | **Database** | MySQL |
-| **API Communication** | RESTful APIs (Axios in frontend) |
+<!-- | **API Communication** | RESTful APIs (Axios in frontend) | -->
+| **API Communication** | RESTful APIs|
 | **IDE Tools** | Eclipse (Backend), VS Code (Frontend) |
 
 ---
